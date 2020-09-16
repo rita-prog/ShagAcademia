@@ -4,6 +4,7 @@ public class Collection {
 
     private String name;
     private String ownerName;
+    private int numberOfItems;
 
 }
 
